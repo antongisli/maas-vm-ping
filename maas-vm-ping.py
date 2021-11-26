@@ -1,6 +1,6 @@
 import oauth.oauth as oauth
 import httplib2
-import urllib.parse
+#import urllib.parse
 import uuid
 
 def perform_API_request(site, uri, method, key, secret, consumer_key):
